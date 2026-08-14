@@ -4,7 +4,9 @@
 🔭 Currently working on: exploring project ideas — check back soon!
 
 🌱 Learning: e.g. React, TensorFlow, System Design, Dsa,
+
 💬 Ask me about: your strongest topic — Python, AI/ML, etc.
+
 📫 Reach me:
 shabarish379@gmail.com
 
